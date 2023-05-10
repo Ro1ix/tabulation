@@ -1,0 +1,8 @@
+C:\Users\profi\Desktop\tabulation-main\tabulation\bin\Debug\tabulation.exe.config
+C:\Users\profi\Desktop\tabulation-main\tabulation\bin\Debug\tabulation.exe
+C:\Users\profi\Desktop\tabulation-main\tabulation\bin\Debug\tabulation.pdb
+C:\Users\profi\Desktop\tabulation-main\tabulation\obj\Debug\tabulation.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\tabulation-main\tabulation\obj\Debug\tabulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\profi\Desktop\tabulation-main\tabulation\obj\Debug\tabulation.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\tabulation-main\tabulation\obj\Debug\tabulation.exe
+C:\Users\profi\Desktop\tabulation-main\tabulation\obj\Debug\tabulation.pdb
